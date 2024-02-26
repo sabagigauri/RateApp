@@ -1,0 +1,5 @@
+.wrapper  {
+    display: flex;
+    padding-inline: 32px;
+    flex-direction: column;
+}
